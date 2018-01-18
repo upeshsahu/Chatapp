@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+
+android:layout_height="match_parent"
+tools:context="com.example.upeshsahu.chatapp.Users"
+android:orientation="vertical"
+    >
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="No users found!"
+    android:id="@+id/noUsersText"
+    android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/imagebtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/icon_start_chatting"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="120dp"
+        />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/startbtn"
+        android:layout_marginTop="350dp"
+       android:layout_centerHorizontal="true"
+        android:text="start chat "
+        android:background="#2E7D32"/>
+
+</RelativeLayout>

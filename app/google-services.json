@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "602679611067",
+    "firebase_url": "https://fir-c0525.firebaseio.com",
+    "project_id": "fir-c0525",
+    "storage_bucket": "fir-c0525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602679611067:android:a6a91f4d73ae8723",
+        "android_client_info": {
+          "package_name": "com.example.upeshsahu.server"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602679611067-hak2i206p7jmrhq3lsfgl8t4lpe0oh4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaJZz4PBQdS3QKVE7T7-yrPZVPyh38VW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602679611067:android:8a094179178c004c",
+        "android_client_info": {
+          "package_name": "com.example.upeshsahu.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602679611067-hak2i206p7jmrhq3lsfgl8t4lpe0oh4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaJZz4PBQdS3QKVE7T7-yrPZVPyh38VW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
